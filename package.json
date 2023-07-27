@@ -1,17 +1,17 @@
 {
   "publisher": "wangsizhu0504",
-  "name": "ui-intellisense",
-  "displayName": "common-intellisense",
+  "name": "vscode-ui-intellisense",
+  "displayName": "UI Assistant",
   "version": "0.0.1",
   "packageManager": "pnpm@8.1.1",
   "description": "ui component intellisense",
-  "author": "Kriszu <wangsizhu0504@outlook.cocm>",
+  "author": "Kriszu <wangsizhu0504@outlook.com>",
   "license": "MIT",
   "categories": [
     "Other"
   ],
   "main": "./dist/index.js",
-  "icon": "icon.png",
+  "icon": "logo.png",
   "files": [
     "dist"
   ],
