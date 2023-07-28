@@ -1,5 +1,5 @@
 /** 允许的UI组件库 */
-export const resolveUI = ['element-ui', 'element-plus', 'ant-design-vue', '@antd/ui', 'naive-ui']
+export const resolveUI = ['element-ui', 'element-plus', 'ant-design-vue', '@antdv/ui', 'naive-ui']
 
 /** 允许的文件类型 */
 export const resolverExtensions = {
