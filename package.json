@@ -7,6 +7,10 @@
   "description": "ui component intellisense",
   "author": "Kriszu <wangsizhu0504@outlook.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangsizhu0504/vscode-ui-intellisense"
+  },
   "categories": [
     "Other"
   ],

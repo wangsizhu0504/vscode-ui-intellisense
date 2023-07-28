@@ -3,7 +3,7 @@
  > 🛠️ 一个 vscode ui 组件智能提示插件
 
 
-<img src="./assets/preview.png" />
+<img src="https://github.com/wangsizhu0504/vscode-ui-intellisense/blob/main/assets/preview.png?raw=true" alt="UI Intellisense" width="350"/>
 
 ## 功能
 
