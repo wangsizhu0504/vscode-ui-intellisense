@@ -160,6 +160,7 @@ function transformVersion(version: string) {
 }
 
 function transformName(name: string) {
+  if (name === '@antdv/ui') name = 'ant-design-vue'
   return name.replace(/-(\w)/g, (_: string, v: string) => v.toUpperCase())
 }
 
